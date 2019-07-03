@@ -1,0 +1,9 @@
+package com.hcl.customer.repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.hcl.customer.entity.Student;
+
+public interface CustomerRepository extends JpaRepository<Student, long>{
+
+}

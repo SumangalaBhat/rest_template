@@ -1,0 +1,5 @@
+package com.hcl.customer.entity;
+
+public class Student {
+
+}

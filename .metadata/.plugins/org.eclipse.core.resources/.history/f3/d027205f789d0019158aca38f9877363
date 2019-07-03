@@ -1,0 +1,10 @@
+package com.hcl.customer.service;
+
+import com.hcl.customer.controller.List;
+import com.hcl.customer.entity.Student;
+
+public class StudentService {
+
+	public List<Student> getAllStudent;
+
+}
